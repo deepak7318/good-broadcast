@@ -8,7 +8,7 @@
 
 good-broadcast includes a _'broadcast'_ script that is capable of broadcasting to subscriber externally from a log file.  Below is the command to use to execute _'broadcast'_:
 
-`broadcast -c broadcast.json`
+`broadcast -c broadcast.json`SECTION
 
 where broadcast.json may look like:
 
